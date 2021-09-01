@@ -1,0 +1,22 @@
+.transactionHistory {
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+.tableHead {
+  background-color: #00bcd5;
+  color: white;
+}
+
+.tableHead_item {
+  width: 200px;
+  text-transform: uppercase;
+  font-family: serif;
+}
+
+.tableRowItem {
+  text-align: center;
+  outline: 1px solid;
+  padding: 5px 0;
+  text-transform: capitalize;
+}
